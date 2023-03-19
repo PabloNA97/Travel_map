@@ -1,0 +1,449 @@
+Albania:
+  flights_price: 45
+  cost_living_index: 60.8
+  cost_per_day: 45
+Algeria:
+  flights_price: 105
+  cost_living_index: 49.4
+  cost_per_day: 28
+Angola:
+  flights_price: 255
+  cost_living_index: 92.7
+  cost_per_day: 57
+Argentina:
+  flights_price: 474
+  cost_living_index: 93.5
+  cost_per_day: 34
+Armenia:
+  flights_price: 93
+  cost_living_index: 49.7
+  cost_per_day: 22
+Australia:
+  flights_price: 451
+  cost_living_index: 168
+  cost_per_day: 119
+Austria:
+  flights_price: 20
+  cost_living_index: 134.6
+  cost_per_day: 117
+Azerbaijan:
+  flights_price: 165
+  cost_living_index: 40.6
+  cost_per_day: 82
+Bahamas:
+  flights_price: 468
+  cost_living_index: 158
+  cost_per_day: 190
+Bangladesh:
+  flights_price: 675
+  cost_living_index: 52.6
+  cost_per_day: 40
+Belgium:
+  flights_price: 25
+  cost_living_index: 136.9
+  cost_per_day: 114
+Belize:
+  flights_price: 808
+  cost_living_index: 105.9
+  cost_per_day: 79
+Benin:
+  flights_price: 406
+  cost_living_index: 54
+  cost_per_day: 30
+Bolivia:
+  flights_price: 545
+  cost_living_index: 54
+  cost_per_day: 39
+Bosnia and Herz.:
+  flights_price: 254
+  cost_living_index: 64.7
+  cost_per_day: 55
+Brazil:
+  flights_price: 406
+  cost_living_index: 104.5
+  cost_per_day: 62
+Brunei:
+  flights_price: 774
+  cost_living_index: 72.3
+  cost_per_day: 37
+Bulgaria:
+  flights_price: 69
+  cost_living_index: 60.9
+  cost_per_day: 51
+Burkina Faso:
+  flights_price: 376
+  cost_living_index: 49.2
+  cost_per_day: 23
+Burundi:
+  flights_price: 779
+  cost_living_index: 54.25
+  cost_per_day: 47
+Cambodia:
+  flights_price: 401
+  cost_living_index: 52.7
+  cost_per_day: 47
+Cameroon:
+  flights_price: 365
+  cost_living_index: 58.3
+  cost_per_day: 35
+Canada:
+  flights_price: 250
+  cost_living_index: 142.1
+  cost_per_day: 127
+Chile:
+  flights_price: 340
+  cost_living_index: 105.8
+  cost_per_day: 58
+China:  
+  flights_price: 506
+  cost_living_index: 87.9
+  cost_per_day: 62
+Colombia:
+  flights_price: 377
+  cost_living_index: 68.9
+  cost_per_day: 27
+Congo:
+  flights_price: 616
+  cost_living_index: 61.7
+  cost_per_day: 52
+Costa Rica:
+  flights_price: 435
+  cost_living_index: 94.1
+  cost_per_day: 83
+Croatia:
+  flights_price: 37
+  cost_living_index: 82.8
+  cost_per_day: 76
+Cuba:
+  flights_price: 469
+  cost_living_index: 0
+  cost_per_day: 31
+Cyprus:
+  flights_price: 101
+  cost_living_index: 108.2
+  cost_per_day: 82
+Czechia:
+  flights_price: 44
+  cost_living_index: 84
+  cost_per_day: 87
+Denmark:
+  flights_price: 39
+  cost_living_index: 172
+  cost_per_day: 145
+Dominican Rep.:
+  flights_price: 412
+  cost_living_index: 74
+  cost_per_day: 107
+Ecuador:
+  flights_price: 400
+  cost_living_index: 82.5
+  cost_per_day: 48
+Egypt:
+  flights_price: 78
+  cost_living_index: 27.4
+  cost_per_day: 19
+El Salvador:  
+  flights_price: 364
+  cost_living_index: 73.8
+  cost_per_day: 52
+Estonia:
+  flights_price: 48
+  cost_living_index: 97
+  cost_per_day: 81
+Ethiopia:
+  flights_price: 326
+  cost_living_index: 51
+  cost_per_day: 45
+Fiji:
+  flights_price: 757
+  cost_living_index: 68
+  cost_per_day: 132
+Finland:
+  flights_price: 71
+  cost_living_index: 151
+  cost_per_day: 125
+France:
+  flights_price: 11
+  cost_living_index: 135.3
+  cost_per_day: 186
+Gambia:
+  flights_price: 140
+  cost_living_index: 46.5
+  cost_per_day: 50
+Georgia:
+  flights_price: 127
+  cost_living_index: 52.8
+  cost_per_day: 25
+Germany:
+  flights_price: 28
+  cost_living_index: 127.5
+  cost_per_day: 121
+Greenland:
+  flights_price: 0
+  cost_living_index: 0
+  cost_per_day: 190
+Ghana:
+  flights_price: 170
+  cost_living_index: 57.7
+  cost_per_day: 22
+Greece:
+  flights_price: 41
+  cost_living_index: 104.7
+  cost_per_day: 123
+Guyana:
+  flights_price: 515
+  cost_living_index: 78
+  cost_per_day: 50
+Haiti:
+  flights_price: 578
+  cost_living_index: 70
+  cost_per_day: 23
+Honduras:
+  flights_price: 578
+  cost_living_index: 65.9
+  cost_per_day: 43
+Hungary:
+  flights_price: 53
+  cost_living_index: 77.2
+  cost_per_day: 63
+Iceland:
+  flights_price: 72
+  cost_living_index: 209
+  cost_per_day: 145
+India:
+  flights_price: 195
+  cost_living_index: 42.9
+  cost_per_day: 30
+Indonesia:
+  flights_price: 354
+  cost_living_index: 54.5
+  cost_per_day: 45
+Iran:
+  flights_price: 289
+  cost_living_index: 60.2
+  cost_per_day: 43
+Ireland:
+  flights_price: 30
+  cost_living_index: 157.2
+  cost_per_day: 109
+Israel:
+  flights_price: 60
+  cost_living_index: 167.5
+  cost_per_day: 88
+Italy:
+  flights_price: 18
+  cost_living_index: 124.2
+  cost_per_day: 133
+Jamaica:
+  flights_price: 611
+  cost_living_index: 78.9
+  cost_per_day: 99
+Japan:  
+  flights_price: 467
+  cost_living_index: 144.44
+  cost_per_day: 105
+Jordan:
+  flights_price: 53
+  cost_living_index: 66.64
+  cost_per_day: 115
+Kazakhstan:
+  flights_price: 232
+  cost_living_index: 55
+  cost_per_day: 17
+Kenya:
+  flights_price: 371
+  cost_living_index: 57.7
+  cost_per_day: 91
+Laos:
+  flights_price: 546
+  cost_living_index: 53.8
+  cost_per_day: 14
+Latvia:
+  flights_price: 78
+  cost_living_index: 89.7
+  cost_per_day: 91
+Lithuania:
+  flights_price: 67
+  cost_living_index: 79
+  cost_per_day: 74
+Luxembourg:
+  flights_price: 47
+  cost_living_index: 156
+  cost_per_day: 147
+Madagascar:
+  flights_price: 483
+  cost_living_index: 44
+  cost_per_day: 65
+Malaysia:
+  flights_price: 366
+  cost_living_index: 57.6
+  cost_per_day: 64
+Mexico:
+  flights_price: 312
+  cost_living_index: 74.87
+  cost_per_day: 88
+Mongolia:
+  flights_price: 562
+  cost_living_index: 51.3
+  cost_per_day: 19
+Montenegro:
+  flights_price: 47
+  cost_living_index: 67.8
+  cost_per_day: 59
+Morocco:
+  flights_price: 22
+  cost_living_index: 63.5
+  cost_per_day: 41
+Mozambique:
+  flights_price: 497
+  cost_living_index: 49.6
+  cost_per_day: 77
+Nepal:
+  flights_price: 380
+  cost_living_index: 42
+  cost_per_day: 28
+Netherlands:
+  flights_price: 40
+  cost_living_index: 137.6
+  cost_per_day: 140
+New Zealand:
+  flights_price: 866
+  cost_living_index: 160.2
+  cost_per_day: 106
+Nicaragua:
+  flights_price: 594
+  cost_living_index: 55
+  cost_per_day: 41
+Nigeria:
+  flights_price: 612
+  cost_living_index: 53
+  cost_per_day: 50
+Norway:
+  flights_price: 55
+  cost_living_index: 186.5
+  cost_per_day: 90
+Oman:
+  flights_price: 386
+  cost_living_index: 78.9
+  cost_per_day: 182
+Pakistan:
+  flights_price: 243
+  cost_living_index: 45
+  cost_per_day: 39
+Panama:
+  flights_price: 447
+  cost_living_index: 72.8
+  cost_per_day: 59
+New Guinea:
+  flights_price: 400
+  cost_living_index: 0
+  cost_per_day: 171
+Paraguay:
+  flights_price: 452
+  cost_living_index: 65.5
+  cost_per_day: 59
+Peru:
+  flights_price: 354
+  cost_living_index: 83
+  cost_per_day: 45
+Philippines:
+  flights_price: 314
+  cost_living_index: 55
+  cost_per_day: 50
+Poland:
+  flights_price: 40
+  cost_living_index: 70
+  cost_per_day: 45
+Portugal:
+  flights_price: 15
+  cost_living_index: 106
+  cost_per_day: 109
+Qatar:
+  flights_price: 353
+  cost_living_index: 113.6
+  cost_per_day: 64
+Romania:
+  flights_price: 46
+  cost_living_index: 64
+  cost_per_day: 62
+Rwanda:
+  flights_price: 505
+  cost_living_index: 50
+  cost_per_day: 21
+Saudi Arabia:
+  flights_price: 82
+  cost_living_index: 65.9
+  cost_per_day: 83
+Serbia:
+  flights_price: 66
+  cost_living_index: 64
+  cost_per_day: 29
+Sierra Leone:
+  flights_price: 668
+  cost_living_index: 41
+  cost_per_day: 45
+Slovakia:
+  flights_price: 273
+  cost_living_index: 94
+  cost_per_day: 101
+Slovenia:
+  flights_price: 84
+  cost_living_index: 103.5
+  cost_per_day: 75
+South Africa:
+  flights_price: 406
+  cost_living_index: 70.4
+  cost_per_day: 68
+South Korea:
+  flights_price: 451
+  cost_living_index: 123.5
+  cost_per_day: 84
+Spain:
+  flights_price: 17
+  cost_living_index: 113.82
+  cost_per_day: 119
+Sri Lanka:
+  flights_price: 186
+  cost_living_index: 53
+  cost_per_day: 18
+Sweden:
+  flights_price: 22
+  cost_living_index: 155
+  cost_per_day: 106
+Switzerland:
+  flights_price: 13
+  cost_living_index: 197.9
+  cost_per_day: 211
+Tanzania:
+  flights_price: 444
+  cost_living_index: 48.5
+  cost_per_day: 80
+Thailand:
+  flights_price: 269
+  cost_living_index: 56.1
+  cost_per_day: 88
+Turkey:
+  flights_price: 71
+  cost_living_index: 64.7
+  cost_per_day: 21
+United States of America:
+  flights_price: 177
+  cost_living_index: 143.34
+  cost_per_day: 212
+United Kingdom:
+  flights_price: 26
+  cost_living_index: 144
+  cost_per_day: 138
+Vietnam:
+  flights_price: 392
+  cost_living_index: 50
+  cost_per_day: 48
+Zambia:
+  flights_price: 681
+  cost_living_index: 63
+  cost_per_day: 50
+Zimbabwe:
+  flights_price: 679
+  cost_living_index: 69.5
+  cost_per_day: 48
+

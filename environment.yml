@@ -1,0 +1,10 @@
+name: travel_map
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python
+  - folium
+  - pandas
+  - geopandas
+  - pyyaml
